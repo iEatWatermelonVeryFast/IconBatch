@@ -1,0 +1,7 @@
+c:\users\ccino\documents\visual studio 2015\Projects\IconGenerator\IconGenerator\bin\Release\IconGenerator.exe
+c:\users\ccino\documents\visual studio 2015\Projects\IconGenerator\IconGenerator\bin\Release\IconGenerator.pdb
+c:\users\ccino\documents\visual studio 2015\Projects\IconGenerator\IconGenerator\obj\Release\IconGenerator.Form1.resources
+c:\users\ccino\documents\visual studio 2015\Projects\IconGenerator\IconGenerator\obj\Release\IconGenerator.Properties.Resources.resources
+c:\users\ccino\documents\visual studio 2015\Projects\IconGenerator\IconGenerator\obj\Release\IconGenerator.csproj.GenerateResource.Cache
+c:\users\ccino\documents\visual studio 2015\Projects\IconGenerator\IconGenerator\obj\Release\IconGenerator.exe
+c:\users\ccino\documents\visual studio 2015\Projects\IconGenerator\IconGenerator\obj\Release\IconGenerator.pdb
